@@ -1,0 +1,65 @@
+{
+  "Menu": {
+    "AboutMe": "About me",
+    "Experience": "Experience",
+    "Education": "Education",
+    "Skills": "Skills"
+  },
+  "AllRightsReserved": "All Rights Reserved",
+  "AboutMe": {
+    "Intro": "Passionate about frontend development. I love creating websites and enhancing user experiences with performance and accessibility in mind. Beyond coding, I enjoy music, movies, gaming and hanging out with friends to recharge. Proud tech nerd staying updated on the evolving tech landscape.",
+    "Hi": "Hi! I'm",
+    "Contact": "Get in touch",
+    "CV": "Download CV"
+  },
+  "Experience": {
+    "Subtitle": "Career Path",
+    "Title": "Work Experience",
+    "Frontend": "Frontend Developer",
+    "Internship": "Curricular Internship",
+    "Accenture": {
+      "Date": "November 2022 - Present",
+      "Text": "I developed a mobile app using React Native and worked on the backend using NestJS. I also teamed up on a project in the banking sector, focusing on AngularJS, where I played a key role in building the frontend. Additionally, I collaborated on training an AI with regex to enhance its ability to detect and respond to unsafe messages."
+    },
+    "DGESTE2": {
+      "Date": "March 2020 - August 2020",
+      "Text": "I designed and developed a dynamic web application for a school information management system."
+    },
+    "DGESTE1": {
+      "Date": "February 2018 - July 2018",
+      "Text": "I designed and developed an internal messaging application for team collaboration. Additionally, I played a key role in configuring and installing Office 365, offering crucial helpdesk support for troubleshooting and resolving issues. I also managed the installation and configuration of Windows machines for team members."
+    }
+  },
+  "Education": {
+    "Subtitle": "Learning Path",
+    "Title": "Education",
+    "Course": {
+      "Bachelor": "Bachelor in Computer Science",
+      "CTESP": "Computer Networks and Systems",
+      "HighSchool": "Computer Systems Management and Programming"
+    }
+  },
+  "Skills": {
+    "Subtitle": "Technologies and Frameworks",
+    "Title": "Skills",
+    "Items": {
+      "Designer": {
+        "Label": "Designer",
+        "Text": "I value clear content organization, minimalist design, and purposeful user interactions."
+      },
+      "Developer": {
+        "Label": "Developer",
+        "Text": "I love coding from scratch and turning ideas into reality on the web."
+      },
+      "Tools": {
+        "Label": "Tools",
+        "Text": "Basically, the tools I use mirror my coding philosophy."
+      }
+    }
+  },
+  "PageNotFound": {
+    "Title": "Lost in the code forest",
+    "Text": "Looks like we took a wrong turn in the code. Let's find our way back to the homepage together.",
+    "Button": "Take me home"
+  }
+}

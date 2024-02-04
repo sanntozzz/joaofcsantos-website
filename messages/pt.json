@@ -1,0 +1,65 @@
+{
+  "Menu": {
+    "AboutMe": "Sobre mim",
+    "Experience": "Experiência",
+    "Education": "Educação",
+    "Skills": "Competências"
+  },
+  "AllRightsReserved": "Todos os direitos reservados",
+  "AboutMe": {
+    "Intro": "Apaixonado pelo desenvolvimento frontend. Adoro criar websites e aprimorar as experiências do utilizador com desempenho e acessibilidade em mente. Além da programação, aprecio música, filmes, jogos e estar com amigos para recarregar as energias. Orgulhoso geek de tecnologia, mantendo-me atualizado no cenário tecnológico em constante evolução.",
+    "Hi": "Olá! Eu sou o",
+    "Contact": "Entrar em contacto",
+    "CV": "Ver currículo"
+  },
+  "Experience": {
+    "Subtitle": "Percurso profissional",
+    "Title": "Experiência profissional",
+    "Frontend": "Desenvolvedor Frontend",
+    "Internship": "Estágio Curricular",
+    "Accenture": {
+      "Date": "Novembro 2022 - Presente",
+      "Text": "Desenvolvi uma aplicação mobile com React Native e trabalhei no backend com NestJS. Colaborei também num projeto no sector bancário, focado em AngularJS, onde desempenhei um papel fundamental no desenvolvimento do frontend. Além disso, participei na formação de uma IA com regex para aprimorar sua capacidade de detecção e resposta a mensagens inseguras."
+    },
+    "DGESTE2": {
+      "Date": "Março 2020 - Agosto 2020",
+      "Text": "Desenvolvi e criei uma aplicação web dinâmica para um sistema de gestão de informações escolares."
+    },
+    "DGESTE1": {
+      "Date": "Fevereiro 2018 - Julho 2018",
+      "Text": "Desenvolvi e criei uma aplicação de mensagens para os colaboradores internos da equipa. Além disso, desempenhei um papel crucial na configuração e instalação do Office 365, fornecendo suporte essencial de helpdesk para resolver problemas. Também geri a instalação e configuração de máquinas Windows para os membros da equipa."
+    }
+  },
+  "Education": {
+    "Subtitle": "Percurso de aprendizagem",
+    "Title": "Educação",
+    "Course": {
+      "Bachelor": "Licenciatura em Informática",
+      "CTESP": "Redes e Sistemas informáticos",
+      "HighSchool": "Gestão e Programação de Sistemas Informáticos"
+    }
+  },
+  "Skills": {
+    "Subtitle": "Tecnologias e Frameworks",
+    "Title": "Competências",
+    "Items": {
+      "Designer": {
+        "Label": "Designer",
+        "Text": "Valorizo uma organização clara de conteúdo, um design minimalista e interações de usuário propositadas."
+      },
+      "Developer": {
+        "Label": "Programador",
+        "Text": "Adoro programar e transformar ideias em realidade na web."
+      },
+      "Tools": {
+        "Label": "Ferramentas",
+        "Text": "Basicamente, as ferramentas que utilizo refletem a minha filosofia de programação."
+      }
+    }
+  },
+  "PageNotFound": {
+    "Title": "Perdido na floresta do código",
+    "Text": "Parece que fomos por um caminho errado no código. Vamos encontrar juntos o caminho de volta para a página inicial.",
+    "Button": "Leva-me para casa"
+  }
+}

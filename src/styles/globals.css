@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply scroll-smooth antialiased;
+}
+
+body {
+  @apply text-neutral-900;
+}
+
+/* Scrollbar CSS */
+
+::-webkit-scrollbar {
+  @apply h-2 w-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-white;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-neutral-400;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-neutral-600;
+}
